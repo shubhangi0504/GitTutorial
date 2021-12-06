@@ -1,0 +1,7 @@
+This is version 1 of my project.
+Want to commit again
+changed by me.
+Again I changed it.
+Changed after the commit.
+Added second file
+Direct commit
