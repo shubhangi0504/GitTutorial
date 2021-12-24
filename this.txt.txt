@@ -1,1 +1,4 @@
 this is new file to insert in the remote repository
+
+
+Hello snehal I got clear Idea about how to use git for project 😃😃😃
